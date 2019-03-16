@@ -1,3 +1,7 @@
+# our files
+keys.yaml
+datacollection/transcripts/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
